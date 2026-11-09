@@ -1,0 +1,8 @@
+Package: vn.thanhprd.fps1
+Name: FPS Rainbow Color1
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm1
+Maintainer: ThanhPrd3006
+Author: 3006iOS
+Section: Tweaks
